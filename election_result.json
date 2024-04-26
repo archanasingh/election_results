@@ -1,0 +1,39 @@
+{
+  "Pennsylvania": {
+    "Chester": {
+      "Democrats": {
+        "Humphrey ": 100,
+        "McGovern": 50
+      },
+      "Republicans": {
+        "Nixon": 200,
+        "Ashbrook": 2,
+        "McCloskey": 1
+      }
+    },
+    "Butler": {
+      "Democrats": {
+        "Humphrey ": 50,
+        "McGovern": 40
+      },
+      "Republicans": {
+        "Nixon": 150,
+        "Ashbrook": 50,
+        "McCloskey": 10
+      }
+    }
+  },
+  "California": {
+    "Inyo": {
+      "Democrats": {
+        "Humphrey ": 500,
+        "McGovern": 200
+      },
+      "Republicans": {
+        "Nixon": 100,
+        "Ashbrook": 0,
+        "McCloskey": 10
+      }
+    }
+  }
+}

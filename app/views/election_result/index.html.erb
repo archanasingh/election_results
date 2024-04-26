@@ -1,0 +1,10 @@
+<h1>Select a State</h1>
+
+<form action="/winners" method="get">
+  <select name="state" id="state-select">
+    <% @data.keys.each do |state| %>
+      <option value="<%= state %>"><%= state %></option>
+    <% end %>
+  </select>
+  <input type="submit" value="Show Winners">
+</form>
